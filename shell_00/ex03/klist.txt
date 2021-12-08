@@ -1,0 +1,5 @@
+Credentials cache: API:5A27E2DE-CC0E-4F01-8305-6104AB6DFBDE
+        Principal: edogan@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 24 15:26:47 2021  Nov 25 01:26:47 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
